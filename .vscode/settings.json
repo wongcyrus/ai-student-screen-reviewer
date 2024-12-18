@@ -1,0 +1,5 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/mnt/e/working/ai-student-screen-reviewer/venv/lib/python3.12/site-packages"
+    ]
+}
